@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "springdoc.swagger-ui.path",
+  "type": "java.lang.String",
+  "description": "Path to the Swagger UI for the API documetation for all REST services offered by our application along with the JAVA docs available for all the API Endpoints"
+}]}
